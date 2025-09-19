@@ -2,10 +2,14 @@ body{
     background-color: rgba(65, 232, 229, 0.914);
     color:rgb(3, 2, 2);
     font-family: "Bitcount Grid Double", serif;
+    margin:0px;
 }
 header{
     font-size: 50px;
-    border:A double border. 5px white
+    border: solid 5px white;
+    text-align: center;
+    /*margin:30px;*/
+    padding: 30px;
 }
 h1{
     font-size: 30px;
